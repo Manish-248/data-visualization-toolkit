@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+networkx
+geopandas
+cartopy
+pywavelets
+statsmodels
+yfinance
+plotly
