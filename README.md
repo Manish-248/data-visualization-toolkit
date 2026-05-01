@@ -85,8 +85,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
----
-
 ## ⭐ Author
 
 Manish Chandra
